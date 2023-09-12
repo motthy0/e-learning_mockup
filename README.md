@@ -2,9 +2,6 @@
 
 ## Setup
 
-### Note
-For this frontend to work you'll need the backend/api section -> https://github.com/John-Weeks-Dev/music-social-network-api
-
 Clone the repository
 ```
 git clone https://github.com/motthy0/e-learning_mockup.git
